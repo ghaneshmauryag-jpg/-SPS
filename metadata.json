@@ -1,0 +1,6 @@
+{
+  "name": "Student Performance Prediction System",
+  "description": "College academic analytics and Machine Learning system for predicting student final exam performance using study patterns, attendance, semester-wise marks, and internal assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
